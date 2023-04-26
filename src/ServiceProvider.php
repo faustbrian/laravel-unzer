@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace BombenProdukt\Unzer;
 
-use Illuminate\Contracts\Container\Container;
 use BombenProdukt\PackagePowerPack\Package\AbstractServiceProvider;
+use Illuminate\Contracts\Container\Container;
 
 final class ServiceProvider extends AbstractServiceProvider
 {
