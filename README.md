@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/BombenProdukt/laravel-unzer/actions">
+    <a href="https://github.com/faustbrian/laravel-unzer/actions">
         <img src="https://badge.sh/github/check-runs/BombenProdukt/laravel-unzer" alt="Checks" />
     </a>
     <a href="https://packagist.org/packages/bombenprodukt/laravel-unzer">
@@ -21,7 +21,7 @@
 
 ## About Laravel Unzer
 
-This project was created by, and is maintained by [BombenProdukt](https://github.com/BombenProdukt), and is a package to use [Unzer](https://www.unzer.com/en/) with Laravel. Be sure to browse through the [changelog](CHANGELOG.md), [code of conduct](.github/CODE_OF_CONDUCT.md), [contribution guidelines](.github/CONTRIBUTING.md), [license](LICENSE), and [security policy](.github/SECURITY.md).
+This project was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and is a package to use [Unzer](https://www.unzer.com/en/) with Laravel. Be sure to browse through the [changelog](CHANGELOG.md), [code of conduct](.github/CODE_OF_CONDUCT.md), [contribution guidelines](.github/CONTRIBUTING.md), [license](LICENSE), and [security policy](.github/SECURITY.md).
 
 ## Installation
 
