@@ -1,0 +1,11 @@
+parameters:
+	ignoreErrors:
+		-
+			message: "#^Cannot access offset 'config' on Illuminate\\\\Contracts\\\\Container\\\\Container\\.$#"
+			count: 1
+			path: src/ServiceProvider.php
+
+		-
+			message: "#^Consider using bind method instead or pass a closure\\.$#"
+			count: 1
+			path: src/ServiceProvider.php
