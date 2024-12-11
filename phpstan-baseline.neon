@@ -1,0 +1,21 @@
+parameters:
+	ignoreErrors:
+		-
+			message: "#^Cannot call method in\\(\\) on iterable\\<SplFileInfo\\>\\.$#"
+			count: 1
+			path: .php-cs-fixer.php
+
+		-
+			message: "#^Method BaseCodeOy\\\\Unzer\\\\ConnectionManager\\:\\:createConnection\\(\\) has parameter \\$config with no value type specified in iterable type array\\.$#"
+			count: 1
+			path: src/ConnectionManager.php
+
+		-
+			message: "#^Cannot access offset 'config' on Illuminate\\\\Contracts\\\\Container\\\\Container\\.$#"
+			count: 1
+			path: src/ServiceProvider.php
+
+		-
+			message: "#^Undefined variable\\: \\$this$#"
+			count: 1
+			path: tests/Pest.php
